@@ -1,0 +1,15 @@
+.Top-Text
+{
+  margin-top: -1rem;
+  margin-left: 10rem;
+  margin-right: 1rem;
+  color: rgba(228, 83, 57, 0.952);
+  background-color: white;
+  height: 6rem;
+}
+.Footer{
+  font-family:sans-serif;
+  font-weight: 300;
+  font-size: medium;
+  color: #fff;
+}

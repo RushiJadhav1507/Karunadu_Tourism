@@ -1,0 +1,71 @@
+body, html {
+  height: 100%;
+}
+header{
+    height: 50%;
+}
+#banner {
+  /* The image used */
+  background-image: url("../../assets/background.jpg");
+
+  /* Half height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card-title
+{
+  margin-top: -3rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  color: rgba(228, 83, 57, 0.952);
+  background-color: white;
+}
+.card-img-top
+{
+  height: 15rem;
+}
+.firstTitle{
+  color:dodgerblue;
+}
+.Footer{
+  font-family:sans-serif;
+  font-weight: 300;
+  font-size: medium;
+  color: #fff;
+}
+
+
+/* Float Three columns side by side */
+.column {
+  float: left;
+  width: 33%;
+  padding: 0 70px;
+  padding-bottom: 30px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+
+  }
+}
+

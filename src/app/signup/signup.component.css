@@ -1,0 +1,48 @@
+
+  body {
+    display:flex; flex-direction:column; justify-content:center;
+    min-height:100vh;
+  }
+
+  
+  .Title {
+    font-size: 48px;
+    font-family: Philosopher-Regular;
+    color: #17183b;
+  }
+  
+  .Title-Container {
+    margin-left: 550px;
+    margin-top: 100px;
+  }
+  
+  .subtitle {
+    font-size: 28px;
+    font-family: Philosopher-Regular;
+    color: #17183b;
+  }
+  
+  .signup {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: Philosopher-Regular;
+  }
+  
+  .signup input {
+    width: 28%;
+  }
+  
+  .signup button {
+    margin-top: 25px;
+  }
+  
+  .login-link {
+    font-family: Philosopher-Regular;
+    margin-top: 12px;
+  }
+  .Footer{
+    font-family:sans-serif;
+    font-weight: 300;
+    font-size: medium;
+    color: #fff;
+  }
