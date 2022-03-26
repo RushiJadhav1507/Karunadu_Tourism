@@ -1,0 +1,1 @@
+mongodb+srv://shruti:shruti@cluster0.fbk5t.mongodb.net/Karunadu?authSource=admin&replicaSet=atlas-13a66v-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true
